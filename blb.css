@@ -1,0 +1,8 @@
+#blog-container{
+    width: 70%;
+margin: auto;
+flex-direction: column;
+}
+#blog-container img{
+    width: 700px;
+}
