@@ -1,0 +1,5 @@
+utils/
+
+node_modules/
+
+.env
